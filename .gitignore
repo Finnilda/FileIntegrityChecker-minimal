@@ -1,0 +1,6 @@
+FileHashBaseline-Win-*/*.db
+FileHashBaseline-Win-*/*.db-journal
+FileHashBaseline-Win-*/*.db-wal
+FileHashBaseline-Win-*/*.db-shm
+FileHashBaseline-Win-*/__pycache__/
+*.user
